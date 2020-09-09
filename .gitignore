@@ -1,3 +1,9 @@
 # This .gitignore file should be placed at the root of your project directory
 #
+
+# This ignores anything that would be placed in a directory
+# called Ignored or ignored
 /[Ii]gnored/
+
+# This ignores all text files anywhere in the project
+*.txt
