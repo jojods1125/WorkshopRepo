@@ -1,0 +1,6 @@
+I am updating the note file in the note2 branch.
+
+Normally, I would have just done this in the note branch.
+
+However, I want there to be plenty of branches for all of
+you to explore.
