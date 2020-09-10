@@ -1,0 +1,10 @@
+This document is going to cause a merge conflict.
+
+Merge conflicts occur when you try to merge a file onto a branch
+that already has an updated version of that file.
+
+We will demonstrate this with lines of text.
+
+THIS IS THE DEFAULT LINE OF TEXT THAT BOTH BRANCHES HAVE.
+
+THIS IS THE LINE OF TEXT BEING ADDED IN MERGECONFLICT1.
