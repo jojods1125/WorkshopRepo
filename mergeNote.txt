@@ -1,0 +1,9 @@
+You found the merge branch!
+
+This branch was created by branching from joseph/readme and
+merging joseph/note2 into it.
+
+Please note that you SHOULD NOT do this in practice. If this was
+an actual project, I would have either merged /note2 directly
+into /readme, or I would have merged /readme and /note2 into
+master. I am doing this solely so you can see how merging works.
